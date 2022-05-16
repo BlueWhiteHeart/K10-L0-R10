@@ -1,0 +1,25 @@
+{
+  "name": "k10-l0-r10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlueWhiteHeart/K10-L0-R10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlueWhiteHeart/K10-L0-R10/issues"
+  },
+  "homepage": "https://github.com/BlueWhiteHeart/K10-L0-R10#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "lowdb": "^3.0.0",
+    "uuid": "^8.3.2"
+  }
+}
